@@ -1,0 +1,18 @@
+#score1 {
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	font-size: 2em;
+	text-align: center;
+	background:blue;
+	color: aquamarine;
+}
+#score2 {
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	font-size: 2em;
+	text-align: center;
+	background:antiquewhite;
+	color: #084242;
+}
